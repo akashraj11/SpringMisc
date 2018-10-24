@@ -1,0 +1,4 @@
+exercise/formexercise/controller/UserController.class
+exercise/formexercise/configuration/LoginConfig.class
+exercise/formexercise/configuration/User.class
+exercise/formexercise/configuration/SpringMVCWebAppInitializer.class
